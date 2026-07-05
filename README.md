@@ -46,8 +46,8 @@ réglementé comme la finance.
 | [online-retail-statistique-decisionnelle](https://github.com/inesdammak/online-retail-statistique-decisionnelle) | Analyse stratégique e-commerce : EDA, régression linéaire, ANOVA/Kruskal-Wallis, segmentation | Python, statsmodels, scipy |
 | [divezone-web-analytics](https://github.com/inesdammak/divezone-web-analytics) | Business case Web Analytics (Matomo) — audit ROI marketing et recommandations budgétaires | Analyse de données, ROAS |
 | [boolean-hr-dashboard-customer-success](https://github.com/inesdammak/boolean-hr-dashboard-customer-success) | Architecture data & dashboard Customer Success (CRISP-DM) | Power BI, ETL, Datamart |
-| [cognicare-innovation-bootcamp](https://github.com/inesdammak/cognicare-innovation-bootcamp) | Produit d'innovation santé — MVP, user stories, prototype HTML | Design Thinking, Prototypage |
-| [ebios-rm-belhome](https://github.com/inesdammak/ebios-rm-belhome) | Analyse de risque cyber selon la méthode EBIOS RM (ANSSI) | Gestion des risques |
+| [cognicare-innovation-bootcamp](https://github.com/inesdammak/cognicare-innovation-bootcamp-) | Produit d'innovation santé — MVP, user stories, prototype HTML | Design Thinking, Prototypage |
+| [ebios-rm-belhome](https://github.com/inesdammak/ebios-rm-belhome-) | Analyse de risque cyber selon la méthode EBIOS RM (ANSSI) | Gestion des risques |
 
 ---
 
