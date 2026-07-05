@@ -1,15 +1,16 @@
-# 👋 Salut, je suis Ines Dammak
+# 👋 Salut, 
 
 **Data Analyst** — À la recherche d'un stage de 6 mois (Septembre 2026)
 
-Étudiante en MSc Manager in Data Marketing (INSEEC Paris), forte de **5 ans
-d'expérience opérationnelle sur la donnée** en environnement multinational
-exigeant (gouvernance, fiabilisation, conformité des données client).
-Solide pratique de l'extraction, du nettoyage et de la modélisation de
-données à grande échelle (SQL, BigQuery, Python), ainsi que du reporting
-décisionnel (Power BI, Tableau, Looker Studio). Je recherche un stage de
-Data Analyst pour mettre cette expertise au service d'un secteur
-réglementé comme la finance.
+
+Ex-Account Manager devenue Data Analyst par passion pour les données et la résolution de problèmes.
+
+5 ans d'expérience à analyser, fiabiliser et valoriser la donnée pour accompagner la prise de décision.
+
+SQL • BigQuery • Python • Power BI • Analytics • Data Marketing
+
+🎯 À la recherche d'un stage de 6 mois en Data Analyst dès **septembre 2026**.
+
 
 📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
 
