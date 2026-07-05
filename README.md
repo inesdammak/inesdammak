@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Salut, je suis Ines Dammak
 
-<!--
-**inesdammak/inesdammak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** — À la recherche d'un stage de 6 mois (Septembre 2026)
 
-Here are some ideas to get you started:
+Étudiante en MSc Manager in Data Marketing (INSEEC Paris), forte de **5 ans
+d'expérience opérationnelle sur la donnée** en environnement multinational
+exigeant (gouvernance, fiabilisation, conformité des données client).
+Solide pratique de l'extraction, du nettoyage et de la modélisation de
+données à grande échelle (SQL, BigQuery, Python), ainsi que du reporting
+décisionnel (Power BI, Tableau, Looker Studio). Je recherche un stage de
+Data Analyst pour mettre cette expertise au service d'un secteur
+réglementé comme la finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
+
+---
+
+## 🛠️ Stack technique
+
+**Langages & données :** SQL · Python (pandas) · BigQuery · Excel avancé · Google Sheets
+
+**Data Visualisation & reporting :** Power BI · Tableau · Looker Studio · tableaux de bord C-level
+
+**Analyse & scoring :** Segmentation clientèle, scoring/tiering, analyse de portefeuille/cohortes, rétention, churn, CLV, CAC
+
+**Data Ops & gouvernance :** Extraction, nettoyage, modélisation, automatisation de flux (Python, SQL, n8n), Dataiku, HubSpot CRM
+
+**Méthodes :** Agile/Scrum (Jira, Confluence)
+
+---
+
+## 💼 Expérience — Foodomarket (France & Tunisie)
+
+- **Data Analyst & Business Performance Manager** *(04.2025 – 03.2026)* — Extraction, nettoyage et modélisation de +2,7M de transactions et 11 000+ clients (SQL/BigQuery) pour éclairer les décisions du COMEX ; refonte CRM HubSpot → +5 % de rétention ; dashboards Looker Studio → ~1h/jour/utilisateur économisée.
+- **Responsable Account Management FR/BE/UK/US** *(12.2023 – 03.2025)* — Analyse de performance par segment → +15 % panier moyen ; scoring de portefeuille → +13 % de contribution au CA.
+- **Team Lead — Account Management** *(11.2021 – 11.2023)* — Analyse de cohortes → croissance GMV UK +266 %, lancement marché US → GMV +200 % en moins d'un an.
+- **Account Manager & Customer Success (UK)** *(05.2021 – 10.2021)* — Onboarding piloté par la donnée → rétention record de 58 % tous marchés confondus.
+
+---
+
+## 📊 Projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| [olist-customer-segmentation](https://github.com/inesdammak/olist-customer-segmentation) | Segmentation client, scoring RFM & clustering K-Means sur les données e-commerce Olist | Python, scikit-learn, yellowbrick |
+| [online-retail-statistique-decisionnelle](https://github.com/inesdammak/online-retail-statistique-decisionnelle) | Analyse stratégique e-commerce : EDA, régression linéaire, ANOVA/Kruskal-Wallis, segmentation | Python, statsmodels, scipy |
+| [divezone-web-analytics](https://github.com/inesdammak/divezone-web-analytics) | Business case Web Analytics (Matomo) — audit ROI marketing et recommandations budgétaires | Analyse de données, ROAS |
+| [boolean-hr-dashboard-customer-success](https://github.com/inesdammak/boolean-hr-dashboard-customer-success) | Architecture data & dashboard Customer Success (CRISP-DM) | Power BI, ETL, Datamart |
+| [cognicare-innovation-bootcamp](https://github.com/inesdammak/cognicare-innovation-bootcamp) | Produit d'innovation santé — MVP, user stories, prototype HTML | Design Thinking, Prototypage |
+| [ebios-rm-belhome](https://github.com/inesdammak/ebios-rm-belhome) | Analyse de risque cyber selon la méthode EBIOS RM (ANSSI) | Gestion des risques |
+
+---
+
+## 🎓 Formation
+
+- MSc Manager in Data Marketing — INSEEC Paris *(2026 – 2027)*
+- MRes Modélisation, Optimisation & Aide à la Décision — FSEG, Sfax *(2017 – 2020)*
+- Licence Économie Quantitative — IHEC, Sfax *(2014 – 2017)*
+
+## 📜 Certifications & langues
+
+TechAway Data Analysis Niv. 2 & 3 (Liora, 2026) · TOEFL iBT 95/120
+Anglais C1 · Français courant · Arabe (langue maternelle)
+
+---
+
+📫 N'hésitez pas à me contacter pour toute opportunité de stage Data Analyst !
