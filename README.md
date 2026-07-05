@@ -1,15 +1,10 @@
 # 👋 Salut, 
 
-**Data Analyst** — À la recherche d'un stage de 6 mois (Septembre 2026)
+Data Analyst | SQL • BigQuery • Python • Power BI • CRM • Data Marketing
 
-
-Ex-Account Manager devenue Data Analyst par passion pour les données et la résolution de problèmes.
-
-5 ans d'expérience à analyser, fiabiliser et valoriser la donnée pour accompagner la prise de décision.
-
-SQL • BigQuery • Python • Power BI • Analytics • Data Marketing
-
-🎯 À la recherche d'un stage de 6 mois en Data Analyst dès **septembre 2026**.
+Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffres en décisions.
+5 ans d'expérience en environnement business à analyser, fiabiliser et valoriser la donnée afin d'accompagner la prise de décision.
+🔍 À la recherche d'un stage de 6 mois en Data Analytics à partir de septembre 2026.
 
 
 📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
