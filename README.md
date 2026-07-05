@@ -4,6 +4,7 @@ Data Analyst | SQL • BigQuery • Python • Power BI • CRM • Data Marketi
 
 Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffres en décisions.
 5 ans d'expérience en environnement business à analyser, fiabiliser et valoriser la donnée afin d'accompagner la prise de décision.
+
 🔍 À la recherche d'un stage de 6 mois en Data Analytics à partir de septembre 2026.
 
 
