@@ -37,7 +37,7 @@ Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffre
 
 ---
 
-## 📊 Projets
+## 📊 Projets académiques
 
 | Projet | Description |
 |---|---|
