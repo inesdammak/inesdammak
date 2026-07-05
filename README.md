@@ -6,6 +6,7 @@ Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffre
 5 ans d'expérience en environnement business à analyser, fiabiliser et valoriser la donnée afin d'accompagner la prise de décision.
 
 🎓 Actuellement étudiante en MSc Manager in Data Marketing (INSEEC Paris).
+
 🔍 À la recherche d'un stage de 6 mois en Data Analytics à partir de septembre 2026.
 
 
