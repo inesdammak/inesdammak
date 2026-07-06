@@ -30,10 +30,9 @@ Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffre
 
 ## 💼 Expérience — Foodomarket (France & Tunisie)
 
-- **Data Analyst & Business Performance Manager** *(04.2025 – 03.2026)* — Extraction, nettoyage et modélisation de +2,7M de transactions et 11 000+ clients (SQL/BigQuery) pour éclairer les décisions du COMEX ; refonte CRM HubSpot → +5 % de rétention ; dashboards Looker Studio → ~1h/jour/utilisateur économisée.
-- **Responsable Account Management FR/BE/UK/US** *(12.2023 – 03.2025)* — Analyse de performance par segment → +15 % panier moyen ; scoring de portefeuille → +13 % de contribution au CA.
-- **Team Lead — Account Management** *(11.2021 – 11.2023)* — Analyse de cohortes → croissance GMV UK +266 %, lancement marché US → GMV +200 % en moins d'un an.
-- **Account Manager & Customer Success (UK)** *(05.2021 – 10.2021)* — Onboarding piloté par la donnée → rétention record de 58 % tous marchés confondus.
+- **Directrice de département Demand — Data & Business Analyst** *(04.2025 – 03.2026)* — Extraction, nettoyage et modélisation de +2,7M de transactions et 11 000+ clients (SQL/BigQuery) pour éclairer les décisions du COMEX ; refonte CRM HubSpot → +5 % de rétention ; dashboards Looker Studio → ~1h/jour/utilisateur économisée.
+- **Responsable Account Management FR/BE/UK/US** *(01.2024 – 03.2025)* — Analyse de performance par segment → +15 % panier moyen ; scoring de portefeuille → +13 % de contribution au CA.
+- **Account Management & Customer Success — UK & US** *(04.2021 – 12.2023)* — Analyse de cohortes → croissance GMV UK +266 %, lancement marché US → GMV +200 % en moins d'un an ; onboarding piloté par la donnée → rétention record de 58 % tous marchés confondus.
 
 ---
 
