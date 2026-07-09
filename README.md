@@ -46,6 +46,7 @@ Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffre
 | [boolean-hr-dashboard-customer-success-](https://github.com/inesdammak/boolean-hr-dashboard-customer-success-) | Architecture data & dashboard Customer Success (CRISP-DM) |
 | [cognicare-innovation-bootcamp-](https://github.com/inesdammak/cognicare-innovation-bootcamp-) | Produit d'innovation santé — MVP, user stories, prototype HTML |
 | [ebios-rm-belhome-](https://github.com/inesdammak/ebios-rm-belhome-) | Analyse de risque cyber selon la méthode EBIOS RM (ANSSI) |
+| [data-analytics-excel-walmart](https://github.com/inesdammak/data-analytics-excel-walmart) | Étude de cas Walmart — croisement de bases, RECHERCHEV, TCD, analyse des ruptures de stock |
 
 ---
 
