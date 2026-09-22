@@ -26,9 +26,18 @@ Spécialisée dans la fiabilisation des données, l'analyse métier et la créat
 
 ---
 
-## 💼 Expérience Foodomarket (France & Tunisie)
+## 💼 Expérience
+
+### Karavel (France)
+
+- **Business Analyst (Stage)** *(08.2026 – Présent)* — Pilotage de la performance commerciale d'un réseau de 194 agences, 435 vendeurs et centres d'appels ; automatisation de reportings et classements quotidiens et hebdomadaires (Excel, Power Query, Snowflake) ; analyses métier ad hoc (taux de transformation, pertes d'appels, grands dossiers, satisfaction client) ; amélioration de tableaux de bord et fiabilisation des données via des extractions SQL et des contrôles qualité.
+
+### Foodomarket (France & Tunisie)
+
 - **Directrice de département Demand — Data & Business Analyst** *(04.2025 – 03.2026)* — Extraction, nettoyage et modélisation de +2,7M de transactions et 11 000+ clients (SQL/BigQuery) pour éclairer les décisions du COMEX ; refonte CRM HubSpot → +5 % de rétention ; dashboards Looker Studio → ~1h/jour/utilisateur économisée.
+
 - **Responsable Account Management FR/BE/UK/US** *(01.2024 – 03.2025)* — Analyse de performance par segment → +15 % panier moyen ; scoring de portefeuille → +13 % de contribution au CA.
+
 - **Account Management & Customer Success — UK & US** *(04.2021 – 12.2023)* — Analyse de cohortes → croissance GMV UK +266 %, lancement marché US → GMV +200 % en moins d'un an ; onboarding piloté par la donnée → rétention record de 58 % tous marchés confondus.
 
 ---
