@@ -6,7 +6,7 @@ Business/Data Analyst avec 5 ans d'expérience en environnement B2B internationa
 Spécialisée dans la fiabilisation des données, l'analyse métier et la création de tableaux de bord, j'accompagne les équipes dans l'identification d'insights actionnables et la prise de décisions fondées sur la donnée.
 
 🎓 Actuellement en MSc Manager in Data Marketing à l'INSEEC Paris et en stage en Business/Data Analytics.
-💼 Disponible à partir de mars 2027 pour un poste de Business/Data Analyst en CDI ou CDD.
+💼 Disponible **à partir de mars 2027** pour un poste de Business/Data Analyst en **CDI ou CDD**.
 
 📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
 
@@ -69,4 +69,4 @@ Anglais C1 · Français courant · Arabe (langue maternelle)
 
 ---
 
-📫 N'hésitez pas à me contacter pour toute opportunité de stage Data Analyst !
+📫 N'hésitez pas à me contacter pour toute opportunité de Business ou Data Analyst !
