@@ -7,7 +7,7 @@ Spécialisée dans la fiabilisation des données, l'analyse métier et la créat
 
 🎓 Actuellement en MSc Manager in Data Marketing à l'INSEEC Paris et en stage en Business/Data Analytics.
 
-💼 Disponible **à partir de mars 2027** pour un poste de Business/Data Analyst en **CDI ou CDD**.
+💼 Disponible **à partir de mars 2027** pour des opportunités en CDI ou CDD en **Business Analytics, Data Analytics ou Data Management**.
 
 📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
 
