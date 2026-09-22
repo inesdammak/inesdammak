@@ -1,14 +1,12 @@
 # 👋 Salut, 
 
-Data Analyst | SQL • BigQuery • Python • Power BI • CRM • Data Marketing
+Business/Data Analyst | SQL • BigQuery • Python • Power BI • CRM • Data Marketing
 
-Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffres en décisions.
-5 ans d'expérience en environnement business à analyser, fiabiliser et valoriser la donnée afin d'accompagner la prise de décision.
+Business/Data Analyst avec 5 ans d'expérience en environnement B2B international, je transforme les données en leviers de décision pour le pilotage de la performance.
+Spécialisée dans la fiabilisation des données, l'analyse métier et la création de tableaux de bord, j'accompagne les équipes dans l'identification d'insights actionnables et la prise de décisions fondées sur la donnée.
 
-🎓 Actuellement étudiante en MSc Manager in Data Marketing (INSEEC Paris).
-
-🔍 À la recherche d'un stage de 6 mois en Data Analytics à partir de septembre 2026.
-
+🎓 Actuellement en MSc Manager in Data Marketing à l'INSEEC Paris et en stage en Business/Data Analytics.
+💼 Disponible à partir de mars 2027 pour un poste de Business/Data Analyst en CDI ou CDD.
 
 📍 Île-de-France · 📧 inesdammak02@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/inesdammak)
 
@@ -28,8 +26,7 @@ Ex-Account Manager devenue Data Analyst par passion pour transformer des chiffre
 
 ---
 
-## 💼 Expérience — Foodomarket (France & Tunisie)
-
+## 💼 Expérience Foodomarket (France & Tunisie)
 - **Directrice de département Demand — Data & Business Analyst** *(04.2025 – 03.2026)* — Extraction, nettoyage et modélisation de +2,7M de transactions et 11 000+ clients (SQL/BigQuery) pour éclairer les décisions du COMEX ; refonte CRM HubSpot → +5 % de rétention ; dashboards Looker Studio → ~1h/jour/utilisateur économisée.
 - **Responsable Account Management FR/BE/UK/US** *(01.2024 – 03.2025)* — Analyse de performance par segment → +15 % panier moyen ; scoring de portefeuille → +13 % de contribution au CA.
 - **Account Management & Customer Success — UK & US** *(04.2021 – 12.2023)* — Analyse de cohortes → croissance GMV UK +266 %, lancement marché US → GMV +200 % en moins d'un an ; onboarding piloté par la donnée → rétention record de 58 % tous marchés confondus.
